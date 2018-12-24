@@ -1,0 +1,358 @@
+[Player 1 Cards -> ,[7,clubs],[4,clubs],[5,diamonds],Hidden Cards -> ,[king,diamonds],[5,spades]]
+[Player 2 Cards -> ,[jack,hearts],[9,hearts],[3,hearts],Hidden Cards -> ,[ace,spades],[6,hearts]]
+Probability of Player 1 winning is -> 0.6543340380549683
+Probability of Player 2 winning is -> 0.5338266384778013
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.38160676532769555
+Three of a Kind -> 0.009513742071881607
+Two Pair -> 0.02854122621564482
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.53276955602537
+Straight Flush -> 0
+Flush -> 0.04756871035940803
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.38054968287526425
+Three of a Kind -> 0.009513742071881607
+Two Pair -> 0.02854122621564482
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.5591966173361522
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0.022198731501057084
+--------------------------------------------------------------------------------------------------
+ 
+Probability of Player 1 winning is -> 0.8372093023255814
+Probability of Player 2 winning is -> 0.6744186046511628
+Player2 quits. Player1 wins. 
+Player1 -> 18
+Player2 -> 2
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[8,clubs],[2,spades],[9,clubs],Hidden Cards -> ,[7,hearts],[8,diamonds]]
+[Player 2 Cards -> ,[10,spades],[jack,clubs],[jack,spades],Hidden Cards -> ,[5,clubs],[10,hearts]]
+Probability of Player 1 winning is -> 0
+Probability of Player 2 winning is -> 0.9904862579281184
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.7283298097251586
+Three of a Kind -> 0.0824524312896406
+Two Pair -> 0.17864693446088795
+Full House -> 0.009513742071881607
+Four of a Kind -> 0.0010570824524312897
+High Card -> 0
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.38266384778012685
+Three of a Kind -> 0.009513742071881607
+Two Pair -> 0.02854122621564482
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.5792811839323467
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Player1 quits. Player2 wins. 
+Player1 -> 15
+Player2 -> 5
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[6,clubs],[2,hearts],[king,diamonds],Hidden Cards -> ,[queen,clubs],[4,diamonds]]
+[Player 2 Cards -> ,[ace,spades],[2,spades],[queen,hearts],Hidden Cards -> ,[6,diamonds],[8,spades]]
+Probability of Player 1 winning is -> 0
+Probability of Player 2 winning is -> 0.5422832980972516
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.3276955602536998
+Three of a Kind -> 0.005285412262156448
+Two Pair -> 0.016913319238900635
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6501057082452432
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.3276955602536998
+Three of a Kind -> 0.005285412262156448
+Two Pair -> 0.016913319238900635
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6501057082452432
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Player1 quits. Player2 wins. 
+Player1 -> 12
+Player2 -> 8
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[queen,clubs],[king,clubs],[jack,hearts],Hidden Cards -> ,[9,spades],[2,hearts]]
+[Player 2 Cards -> ,[3,hearts],[jack,diamonds],[7,spades],Hidden Cards -> ,[2,clubs],[7,hearts]]
+Probability of Player 1 winning is -> 0.4799154334038055
+Probability of Player 2 winning is -> 0.6057082452431289
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.35517970401691334
+Three of a Kind -> 0.007399577167019027
+Two Pair -> 0.022198731501057084
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6152219873150105
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.3562367864693446
+Three of a Kind -> 0.007399577167019027
+Two Pair -> 0.022198731501057084
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.580338266384778
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0.03382663847780127
+--------------------------------------------------------------------------------------------------
+ 
+Player1 quits. Player2 wins. 
+Player1 -> 9
+Player2 -> 11
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[ace,diamonds],[ace,spades],[5,hearts],Hidden Cards -> ,[4,diamonds],[3,diamonds]]
+[Player 2 Cards -> ,[ace,clubs],[6,spades],[9,clubs],Hidden Cards -> ,[queen,clubs],[king,hearts]]
+Probability of Player 1 winning is -> 0.9386892177589852
+Probability of Player 2 winning is -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.3276955602536998
+Three of a Kind -> 0.006342494714587738
+Two Pair -> 0.015856236786469344
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6501057082452432
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.7674418604651163
+Three of a Kind -> 0.042283298097251586
+Two Pair -> 0.1839323467230444
+Full House -> 0.006342494714587738
+Four of a Kind -> 0
+High Card -> 0
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Player2 quits. Player1 wins. 
+Player1 -> 12
+Player2 -> 8
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[9,spades],[ace,clubs],[5,clubs],Hidden Cards -> ,[queen,diamonds],[5,diamonds]]
+[Player 2 Cards -> ,[8,hearts],[4,clubs],[4,spades],Hidden Cards -> ,[6,clubs],[4,diamonds]]
+Probability of Player 1 winning is -> 0.7283298097251586
+Probability of Player 2 winning is -> 0.9904862579281184
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.7283298097251586
+Three of a Kind -> 0.0824524312896406
+Two Pair -> 0.17864693446088795
+Full House -> 0.009513742071881607
+Four of a Kind -> 0.0010570824524312897
+High Card -> 0
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.38372093023255816
+Three of a Kind -> 0.009513742071881607
+Two Pair -> 0.02854122621564482
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.5782241014799154
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Probability of Player 1 winning is -> 0.8372093023255814
+Probability of Player 2 winning is -> 1.0465116279069768
+Player 2 wins. 
+Player1 -> 4
+Player2 -> 16
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[king,diamonds],[4,clubs],[2,diamonds],Hidden Cards -> ,[jack,spades],[2,hearts]]
+[Player 2 Cards -> ,[6,spades],[10,spades],[8,hearts],Hidden Cards -> ,[9,spades],[6,hearts]]
+Probability of Player 1 winning is -> 0.5644820295983086
+Probability of Player 2 winning is -> 0.8150105708245243
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.38160676532769555
+Three of a Kind -> 0.009513742071881607
+Two Pair -> 0.02854122621564482
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.5634249471458774
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0.016913319238900635
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.38160676532769555
+Three of a Kind -> 0.009513742071881607
+Two Pair -> 0.02854122621564482
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.580338266384778
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Probability of Player 1 winning is -> 0.6511627906976745
+Probability of Player 2 winning is -> 0.9069767441860465
+Player1 quits. Player2 wins. 
+Player1 -> -4
+Player2 -> 24
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[7,spades],[10,hearts],[3,clubs],Hidden Cards -> ,[4,clubs],[jack,hearts]]
+[Player 2 Cards -> ,[9,clubs],[7,clubs],[2,clubs],Hidden Cards -> ,[5,hearts],[4,diamonds]]
+Probability of Player 1 winning is -> 0.24101479915433405
+Probability of Player 2 winning is -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.35517970401691334
+Three of a Kind -> 0.007399577167019027
+Two Pair -> 0.022198731501057084
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.5856236786469344
+Straight Flush -> 0
+Flush -> 0.02959830866807611
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.35517970401691334
+Three of a Kind -> 0.007399577167019027
+Two Pair -> 0.022198731501057084
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6152219873150105
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Its a draw. 
+Player1 -> 10
+Player2 -> 10
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[7,hearts],[2,hearts],[10,diamonds],Hidden Cards -> ,[7,diamonds],[8,clubs]]
+[Player 2 Cards -> ,[4,clubs],[2,clubs],[jack,hearts],Hidden Cards -> ,[8,spades],[2,spades]]
+Probability of Player 1 winning is -> 0.8234672304439746
+Probability of Player 2 winning is -> 0.6733615221987315
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.3562367864693446
+Three of a Kind -> 0.007399577167019027
+Two Pair -> 0.022198731501057084
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6141649048625792
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.3276955602536998
+Three of a Kind -> 0.006342494714587738
+Two Pair -> 0.015856236786469344
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.6501057082452432
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Probability of Player 1 winning is -> 0.9069767441860465
+Probability of Player 2 winning is -> 0
+Player2 quits. Player1 wins. 
+Player1 -> 18
+Player2 -> 2
+ 
+#################################################### NEW GAME ###########################################################
+ 
+[Player 1 Cards -> ,[3,diamonds],[queen,diamonds],[queen,hearts],Hidden Cards -> ,[queen,spades],[6,hearts]]
+[Player 2 Cards -> ,[6,diamonds],[2,diamonds],[5,clubs],Hidden Cards -> ,[10,hearts],[2,spades]]
+Probability of Player 1 winning is -> 0.9873150105708245
+Probability of Player 2 winning is -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Probabilities for Player2 as judged by Player1
+One Pair -> 0.3583509513742072
+Three of a Kind -> 0.007399577167019027
+Two Pair -> 0.022198731501057084
+Full House -> 0
+Four of a Kind -> 0
+High Card -> 0.5993657505285412
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0.012684989429175475
+ 
+ 
+Probabilities for Player1 as judged by Player2One Pair -> 0.7283298097251586
+Three of a Kind -> 0.0824524312896406
+Two Pair -> 0.17864693446088795
+Full House -> 0.009513742071881607
+Four of a Kind -> 0.0010570824524312897
+High Card -> 0
+Straight Flush -> 0
+Flush -> 0
+Straight -> 0
+--------------------------------------------------------------------------------------------------
+ 
+Player2 quits. Player1 wins. 
+Player1 -> 21
+Player2 -> -1
+ 
+#################################################### NEW GAME ###########################################################
+ 
